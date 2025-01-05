@@ -8,13 +8,10 @@ M/M/k:
 ![M/M/k](https://github.com/1lmao/Queuing-Theory/raw/main/images/mmk.png)
 
 G/G/1: 
-
 ![G/G/1](https://github.com/1lmao/Queuing-Theory/raw/main/images/gg1.png)
 
 G/M/1: 
-
 ![G/M/1](https://github.com/1lmao/Queuing-Theory/raw/main/images/gm1.png)
 
 and M/G/1:
-
 ![M/G/1](https://github.com/1lmao/Queuing-Theory/raw/main/images/mg1.png)
